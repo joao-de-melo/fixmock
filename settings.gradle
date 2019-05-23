@@ -1,0 +1,4 @@
+rootProject.name = 'fixmock'
+include 'fixmock-server'
+include 'fixmock-integration-tests'
+
